@@ -1,2 +1,2 @@
-"# hex-homework-jQuery" 
+
 "# imagesStorehouse" 
